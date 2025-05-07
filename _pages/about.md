@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Kehan's cyber raft !"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I’m a third-year grad student at NUAA, majoring in robotics, with a deep love for computers—especially the Linux kernel. 
 
